@@ -1,0 +1,51 @@
+body {
+    color: yellow;
+    background: green;
+    margin: 0px;
+    font-family: DotGothic16, sans-serif
+        
+
+}
+
+header {
+    border-bottom: solid 2px rgb(56, 3, 202);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(239, 255, 11);
+}
+
+section {
+    background: rgb(56, 3, 202);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+img {
+    height: 200px;
+  }
+
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* código omitido */
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
